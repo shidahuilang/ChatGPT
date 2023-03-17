@@ -9,3 +9,5 @@
 - 里面自带了两个代{过}{滤}理可以试试  也可以自定义
 - 所有聊天记录会保存在chat.txt里面
 - 内置N个预设的聊天话术
+![img.jpg](image/img.jpg)
+![img1.jpg](image/img1.jpg)
