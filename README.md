@@ -1,7 +1,7 @@
 # ChatGPT
 搭建属于自己的ChatGPT，国内可访问
 - php环境 不需要数据库  我用的7.2   上传解压  打开就看到我截图的页面 无需安装
-- 后台登陆地址/adminkey.php
+- 后台登陆地址:ip或者域名/adminkey.php
 - 账号:lang
 - 密码:lang
 - 把你的KEY写上 点更新
